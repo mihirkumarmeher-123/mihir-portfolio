@@ -30,7 +30,7 @@ npm run dev
 ```
 
 ## Live Demo
-Check out the live version here: [Portfolio Live](https://yourportfolio.com)
+Check out the live version here: [Portfolio Live](https://mihirkumarmeherportfolio.netlify.app/)
 
 ## Contributing
 If you'd like to contribute or suggest improvements, feel free to fork the repo and submit a pull request!
