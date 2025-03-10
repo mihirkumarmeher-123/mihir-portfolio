@@ -46,7 +46,7 @@ function Hero() {
           </h2>
           <div className="flex items-center gap-3">
             <ButtonPrimary
-              href="https://drive.google.com/file/d/1ACBhsR9MDF8M5A78aZ8TpNuQ1xBpouf8/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1K25GI9SxCd1Pk42_wykf0VGjqI6eLaIE/view?usp=drivesdk"
               label="Download CV"
               icon="download"
             />
