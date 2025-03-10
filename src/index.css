@@ -26,11 +26,16 @@ body {
 \*---------------------------------*/
 
 .headline-1 {
-  @apply max-w-max;
-  background: -webkit-linear-gradient(0deg, #fafafa, #a1a1aa);
+  @apply max-w-max md:text-4xl sm:text-3xl text-xl;
+  /* background: -webkit-linear-gradient(0deg, #fafafa, #a1a1aa);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent; */
+  
 }
+
+/* .highlight{
+  @apply text-yellow-500 !important;
+} */
 
 .headline-1 {
   @apply text-5xl leading-tight font-semibold lg:text-[55px] lg:leading-[1.15];
