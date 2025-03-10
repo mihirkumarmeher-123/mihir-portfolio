@@ -10,7 +10,7 @@ Welcome to my portfolio app! This application showcases my skills, projects, and
 
 ## Tech Stack
 - **Frontend**: React, Tailwind CSS, GSAP
-- **Hosting**: Render
+- **Hosting**: Netlify
 
 ## Installation
 To run the portfolio locally, follow these steps:
